@@ -81,6 +81,9 @@ I'm also interested in applying **AI tools** to QA/QE workflows, including test 
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat" />
   <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/RubyMine-000000?style=flat&logo=rubymine&logoColor=white" />
 </p>
 
 ---
