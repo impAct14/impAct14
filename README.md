@@ -70,6 +70,10 @@ I'm also interested in applying **AI tools** to QA/QE workflows, including test 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/TestRail-65C179?style=flat" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/RubyMine-000000?style=flat&logo=rubymine&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" />
 </p>
 
 ### Development Background
@@ -79,11 +83,7 @@ I'm also interested in applying **AI tools** to QA/QE workflows, including test 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat" />
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/RubyMine-000000?style=flat&logo=rubymine&logoColor=white" />
 </p>
 
 ---
@@ -103,6 +103,24 @@ I'm also interested in applying **AI tools** to QA/QE workflows, including test 
 
 ---
 
+## Domain Experience
+
+**E-commerce / Shopify · Customer Support Platform · Messaging & Ticketing System · Email Marketing · Master Data Management · Business Management Systems · Digital Signage · API & Backend Validation · Performance Testing**
+
+---
+## Current Focus
+
+- Improving E2E automation testing with Python and Playwright/Robotframework
+- Writing cleaner, more maintainable, and reusable automation code
+- Strengthening API testing and backend validation skills
+- Improving test design mindset and scalable QA/QE workflows
+- Learning more about performance testing
+- Integrating automation tests into CI/CD pipelines
+- Applying AI tools to support test planning, automation debugging, and test coverage improvement
+- Improving English communication for working with international teams
+
+---
+
 ## Development Background
 
 Before focusing more on QA/QE, I worked on several frontend development projects using Angular, React, TypeScript, JavaScript, and HTML/CSS.
@@ -117,19 +135,6 @@ Before focusing more on QA/QE, I worked on several frontend development projects
 - **ReactJS Practice Dashboard:** Built ReactJS dashboard features with charts, data display, and Google login forms
 
 This development background helps me understand application structure, frontend behavior, user flows, and technical implementation details when designing and executing test cases.
-
----
-
-## Current Focus
-
-- Improving E2E automation testing with Python and Playwright/Robotframework
-- Writing cleaner, more maintainable, and reusable automation code
-- Strengthening API testing and backend validation skills
-- Improving test design mindset and scalable QA/QE workflows
-- Learning more about performance testing
-- Integrating automation tests into CI/CD pipelines
-- Applying AI tools to support test planning, automation debugging, and test coverage improvement
-- Improving English communication for working with international teams
 
 ---
 
