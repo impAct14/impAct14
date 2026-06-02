@@ -20,7 +20,7 @@ I'm also interested in applying **AI tools** to QA/QE workflows, including test 
 - 🚀 Basic experience with performance testing using JMeter and Locust
 - 💻 Software development background with Angular, React, TypeScript, JavaScript, and HTML/CSS
 - 🤖 Interested in using AI to improve QA productivity, automation stability, and test coverage
-- 🎮 Enjoy gaming and exploring new technologies in my free time
+- 🎮 Enjoy gaming, playing sport and exploring new technologies in my free time
 
 ---
 
